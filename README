@@ -1,0 +1,15 @@
+PyCon Philippines 2012
+
+Beginner's Sprint Exercise
+
+"The Turtle"
+
+This is an exercise with the Turtle object as taught by MrValdez.
+
+The objective is to draw 2 letters --- "FE" --- in 30 minutes.
+
+I have coded it to simulate true hand strokes when writing the letters.
+
+I have done it well within 30 minutes and have also experimented with other
+turtle methods (i.e pencolor, goto, circle). Now it looks more like a
+logo ;)
